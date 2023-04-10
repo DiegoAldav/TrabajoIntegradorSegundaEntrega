@@ -1,0 +1,385 @@
+Participante,Equipo1,gana1,empata,gana2,Equipo2 
+Mariana,Qatar,,,x,Ecuador 
+Mariana,England,x,,,Iran 
+Mariana,Senegal,x,,,Netherlands 
+Mariana,USA,,x,,Wales 
+Mariana,Argentina,x,,,Saudi Arabia
+Mariana,Denmark,x,,,Tunisia 
+Mariana,Mexico,x,,,Poland 
+Mariana,France,x,,,Australia 
+Mariana,Morocco,,,x,Croatia 
+Mariana,Germany,,,x,Japan 
+Mariana,Spain,,x,,Costa Rica
+Mariana,Belgium,,x,,Canada 
+Mariana,Switzerland,x,,,Cameroon 
+Mariana,Uruguay,x,,,Korea Republic
+Mariana,Portugal,,,x,Ghana 
+Mariana,Brazil,,,x,Serbia 
+Mariana,Wales,,x,,Iran 
+Mariana,Qatar,,x,,Senegal 
+Mariana,Netherlands,x,,,Ecuador 
+Mariana,England,x,,,USA 
+Mariana,Tunisia,,,x,Australia 
+Mariana,Poland,,,x,Saudi Arabia
+Mariana,France,,x,,Denmark 
+Mariana,Argentina,,x,,Mexico 
+Mariana,Japan,x,,,Costa Rica
+Mariana,Belgium,x,,,Morocco 
+Mariana,Croatia,,,x,Canada 
+Mariana,Spain,,,x,Germany 
+Mariana,Cameroon,,,x,Serbia 
+Mariana,Korea Republic,,x,,Ghana
+Mariana,Brazil,,x,,Switzerland 
+Mariana,Portugal,x,,,Uruguay 
+Mariana,Ecuador,x,,,Senegal 
+Mariana,Netherlands,,,x,Qatar 
+Mariana,Wales,,,x,England 
+Mariana,Iran,,x,,USA 
+Mariana,Australia,,x,,Denmark 
+Mariana,Tunisia,x,,,France 
+Mariana,Poland,x,,,Argentina 
+Mariana,Saudi Arabia,,,x,Mexico
+Mariana,Croatia,,,x,Belgium 
+Mariana,Canada,,x,,Morocco 
+Mariana,Japan,,x,,Spain 
+Mariana,Costa Rica,x,,,Germany
+Mariana,Ghana,x,,,Uruguay 
+Mariana,Korea Republic,,,x,Portugal
+Mariana,Serbia,,,x,Switzerland 
+Mariana,Cameroon,,x,,Brazil 
+pedro,Qatar,,,x,Ecuador 
+pedro,England,x,,,Iran 
+pedro,Senegal,,,x,Netherlands 
+pedro,USA,,x,,Wales 
+pedro,Argentina,,,x,Saudi Arabia
+pedro,Denmark,,x,,Tunisia 
+pedro,Mexico,x,,,Poland 
+pedro,France,,,x,Australia 
+pedro,Morocco,x,,,Croatia 
+pedro,Germany,,x,,Japan 
+pedro,Spain,x,,,Costa Rica
+pedro,Belgium,x,,,Canada 
+pedro,Switzerland,,,x,Cameroon 
+pedro,Uruguay,,,x,Korea Republic
+pedro,Portugal,,x,,Ghana 
+pedro,Brazil,,x,,Serbia 
+pedro,Wales,x,,,Iran 
+pedro,Qatar,x,,,Senegal 
+pedro,Netherlands,,,x,Ecuador 
+pedro,England,,,x,USA 
+pedro,Tunisia,,x,,Australia 
+pedro,Poland,,x,,Saudi Arabia
+pedro,France,x,,,Denmark 
+pedro,Argentina,x,,,Mexico 
+pedro,Japan,,,x,Costa Rica
+pedro,Belgium,,,x,Morocco 
+pedro,Croatia,,x,,Canada 
+pedro,Spain,,x,,Germany 
+pedro,Cameroon,x,,,Serbia 
+pedro,Korea Republic,x,,,Ghana
+pedro,Brazil,,,x,Switzerland 
+pedro,Portugal,,,x,Uruguay 
+pedro,Ecuador,,x,,Senegal 
+pedro,Netherlands,,x,,Qatar 
+pedro,Wales,x,,,England 
+pedro,Iran,x,,,USA 
+pedro,Australia,,,x,Denmark 
+pedro,Tunisia,,,x,France 
+pedro,Poland,,x,,Argentina 
+pedro,Saudi Arabia,,x,,Mexico
+pedro,Croatia,x,,,Belgium 
+pedro,Canada,x,,,Morocco 
+pedro,Japan,,,x,Spain 
+pedro,Costa Rica,,,x,Germany
+pedro,Ghana,,x,,Uruguay 
+pedro,Korea Republic,,x,,Portugal
+pedro,Serbia,x,,,Switzerland 
+pedro,Cameroon,x,,,Brazil 
+daniel,Qatar,,,x,Ecuador 
+daniel,England,x,,,Iran 
+daniel,Senegal,,,x,Netherlands 
+daniel,USA,,x,,Wales 
+daniel,Argentina,,,x,Saudi Arabia
+daniel,Denmark,,x,,Tunisia 
+daniel,Mexico,x,,,Poland 
+daniel,France,,,x,Australia 
+daniel,Morocco,x,,,Croatia 
+daniel,Germany,,x,,Japan 
+daniel,Spain,x,,,Costa Rica
+daniel,Belgium,x,,,Canada 
+daniel,Switzerland,,,x,Cameroon 
+daniel,Uruguay,,,x,Korea Republic
+daniel,Portugal,,x,,Ghana 
+daniel,Brazil,,x,,Serbia 
+daniel,Wales,x,,,Iran 
+daniel,Qatar,x,,,Senegal 
+daniel,Netherlands,,,x,Ecuador 
+daniel,England,,,x,USA 
+daniel,Tunisia,,x,,Australia 
+daniel,Poland,,x,,Saudi Arabia
+daniel,France,x,,,Denmark 
+daniel,Argentina,x,,,Mexico 
+daniel,Japan,,,x,Costa Rica
+daniel,Belgium,,,x,Morocco 
+daniel,Croatia,,x,,Canada 
+daniel,Spain,,x,,Germany 
+daniel,Cameroon,x,,,Serbia 
+daniel,Korea Republic,x,,,Ghana
+daniel,Brazil,,,x,Switzerland 
+daniel,Portugal,,,x,Uruguay 
+daniel,Ecuador,,x,,Senegal 
+daniel,Netherlands,,x,,Qatar 
+daniel,Wales,x,,,England 
+daniel,Iran,x,,,USA 
+daniel,Australia,,,x,Denmark 
+daniel,Tunisia,,,x,France 
+daniel,Poland,,x,,Argentina 
+daniel,Saudi Arabia,,x,,Mexico
+daniel,Croatia,x,,,Belgium 
+daniel,Canada,x,,,Morocco 
+daniel,Japan,,,x,Spain 
+daniel,Costa Rica,,,x,Germany
+daniel,Ghana,,x,,Uruguay 
+daniel,Korea Republic,,x,,Portugal
+daniel,Serbia,,,x,Switzerland 
+daniel,Cameroon,x,,,Brazil 
+natalia,Qatar,,,x,Ecuador 
+natalia,England,x,,,Iran 
+natalia,Senegal,x,,,Netherlands 
+natalia,USA,x,,,Wales 
+natalia,Argentina,x,,,Saudi Arabia
+natalia,Denmark,x,,,Tunisia 
+natalia,Mexico,x,,,Poland 
+natalia,France,x,,,Australia 
+natalia,Morocco,,,x,Croatia 
+natalia,Germany,,,x,Japan 
+natalia,Spain,,x,,Costa Rica
+natalia,Belgium,,x,,Canada 
+natalia,Switzerland,x,,,Cameroon 
+natalia,Uruguay,x,,,Korea Republic
+natalia,Portugal,,,x,Ghana 
+natalia,Brazil,,,x,Serbia 
+natalia,Wales,,x,,Iran 
+natalia,Qatar,,x,,Senegal 
+natalia,Netherlands,x,,,Ecuador 
+natalia,England,x,,,USA 
+natalia,Tunisia,,,x,Australia 
+natalia,Poland,,,x,Saudi Arabia
+natalia,France,,x,,Denmark 
+natalia,Argentina,,x,,Mexico 
+natalia,Japan,x,,,Costa Rica
+natalia,Belgium,x,,,Morocco 
+natalia,Croatia,,,x,Canada 
+natalia,Spain,,,x,Germany 
+natalia,Cameroon,,,x,Serbia 
+natalia,Korea Republic,,x,,Ghana
+natalia,Brazil,,x,,Switzerland 
+natalia,Portugal,x,,,Uruguay 
+natalia,Ecuador,x,,,Senegal 
+natalia,Netherlands,,,x,Qatar 
+natalia,Wales,,,x,England 
+natalia,Iran,,x,,USA 
+natalia,Australia,,x,,Denmark 
+natalia,Tunisia,x,,,France 
+natalia,Poland,x,,,Argentina 
+natalia,Saudi Arabia,,,x,Mexico
+natalia,Croatia,,x,,Belgium 
+natalia,Canada,,,x,Morocco 
+natalia,Japan,x,,,Spain 
+natalia,Costa Rica,,,x,Germany
+natalia,Ghana,,,x,Uruguay 
+natalia,Korea Republic,x,,,Portugal
+natalia,Serbia,,,x,Switzerland 
+natalia,Cameroon,x,,,Brazil 
+Mariana,Qatar,,,x,Senegal 
+Mariana,Netherlands,x,,,Ecuador 
+Mariana,England,x,,,USA 
+Mariana,Tunisia,,,x,Australia 
+Mariana,Poland,,,x,Saudi Arabia
+Mariana,France,,x,,Denmark 
+Mariana,Argentina,,x,,Mexico 
+Mariana,Japan,x,,,Costa Rica
+Mariana,Belgium,x,,,Morocco 
+Mariana,Croatia,,,x,Canada 
+Mariana,Spain,,,x,Germany 
+Mariana,Cameroon,,,x,Serbia 
+Mariana,Korea Republic,,x,,Ghana
+Mariana,Brazil,,x,,Switzerland 
+Mariana,Portugal,x,,,Uruguay 
+Mariana,Ecuador,x,,,Senegal 
+Mariana,Netherlands,,,x,Qatar 
+Mariana,Wales,,,x,England 
+Mariana,Iran,,x,,USA 
+Mariana,Australia,,x,,Denmark 
+Mariana,Tunisia,x,,,France 
+Mariana,Poland,x,,,Argentina 
+Mariana,Saudi Arabia,,,x,Mexico
+Mariana,Croatia,,,x,Belgium 
+Mariana,Canada,,x,,Morocco 
+Mariana,Japan,,x,,Spain 
+Mariana,Costa Rica,x,,,Germany
+Mariana,Ghana,x,,,Uruguay 
+Mariana,Korea Republic,,,x,Portugal
+Mariana,Serbia,,,x,Switzerland 
+Mariana,Cameroon,,x,,Brazil 
+Mariana,Qatar,,,x,Ecuador 
+Mariana,England,x,,,Iran 
+Mariana,Senegal,x,,,Netherlands 
+Mariana,USA,,x,,Wales 
+Mariana,Argentina,x,,,Saudi 
+Mariana,Denmark,x,,,Tunisia Arabia
+Mariana,Mexico,x,,,Poland 
+Mariana,France,x,,,Australia 
+Mariana,Morocco,,,x,Croatia 
+Mariana,Germany,,,x,Japan 
+Mariana,Spain,,x,,Costa 
+Mariana,Belgium,,x,,Canada Rica
+Mariana,Switzerland,x,,,Cameroon 
+Mariana,Uruguay,x,,,Korea 
+Mariana,Portugal,,,x,Ghana Republic
+Mariana,Brazil,,,x,Serbia 
+Mariana,Wales,,,x,Iran 
+pedro,Qatar,,,x,Senegal 
+pedro,Netherlands,,,x,Ecuador 
+pedro,England,,,x,USA 
+pedro,Tunisia,,x,,Australia 
+pedro,Poland,,x,,Saudi Arabia
+pedro,France,x,,,Denmark 
+pedro,Argentina,x,,,Mexico 
+pedro,Japan,,,x,Costa Rica
+pedro,Belgium,,,x,Morocco 
+pedro,Croatia,,x,,Canada 
+pedro,Spain,,x,,Germany 
+pedro,Cameroon,x,,,Serbia 
+pedro,Korea Republic,x,,,Ghana
+pedro,Brazil,,,x,Switzerland 
+pedro,Portugal,,,x,Uruguay 
+pedro,Ecuador,,x,,Senegal 
+pedro,Netherlands,,x,,Qatar 
+pedro,Wales,x,,,England 
+pedro,Iran,x,,,USA 
+pedro,Australia,,,x,Denmark 
+pedro,Tunisia,,,x,France 
+pedro,Poland,,x,,Argentina 
+pedro,Saudi Arabia,,x,,Mexico
+pedro,Croatia,x,,,Belgium 
+pedro,Canada,x,,,Morocco 
+pedro,Japan,,,x,Spain 
+pedro,Costa Rica,,,x,Germany
+pedro,Ghana,,x,,Uruguay 
+pedro,Korea Republic,,x,,Portugal
+pedro,Serbia,x,,,Switzerland 
+pedro,Cameroon,x,,,Brazil 
+pedro,Qatar,,,x,Ecuador 
+pedro,England,x,,,Iran 
+pedro,Senegal,,,x,Netherlands 
+pedro,USA,,x,,Wales 
+pedro,Argentina,,,x,Saudi Arabia
+pedro,Denmark,,x,,Tunisia 
+pedro,Mexico,x,,,Poland 
+pedro,France,,,x,Australia 
+pedro,Morocco,x,,,Croatia 
+pedro,Germany,,x,,Japan 
+pedro,Spain,x,,,Costa Rica
+pedro,Belgium,x,,,Canada 
+pedro,Switzerland,,,x,Cameroon 
+pedro,Uruguay,,,x,Korea Republic
+pedro,Portugal,,x,,Ghana 
+pedro,Brazil,,x,,Serbia 
+pedro,Wales,,,x,Iran 
+daniel,Qatar,,,x,Senegal 
+daniel,Netherlands,,,x,Ecuador 
+daniel,England,,,x,USA 
+daniel,Tunisia,,x,,Australia 
+daniel,Poland,,x,,Saudi Arabia
+daniel,France,x,,,Denmark 
+daniel,Argentina,x,,,Mexico 
+daniel,Japan,,,x,Costa Rica
+daniel,Belgium,,,x,Morocco 
+daniel,Croatia,,x,,Canada 
+daniel,Spain,,x,,Germany 
+daniel,Cameroon,x,,,Serbia 
+daniel,Korea Republic,x,,,Ghana
+daniel,Brazil,,,x,Switzerland 
+daniel,Portugal,,,x,Uruguay 
+daniel,Ecuador,,x,,Senegal 
+daniel,Netherlands,,x,,Qatar 
+daniel,Wales,x,,,England 
+daniel,Iran,x,,,USA 
+daniel,Australia,,,x,Denmark 
+daniel,Tunisia,,,x,France 
+daniel,Poland,,x,,Argentina 
+daniel,Saudi Arabia,,x,,Mexico
+daniel,Croatia,x,,,Belgium 
+daniel,Canada,x,,,Morocco 
+daniel,Japan,,,x,Spain 
+daniel,Costa Rica,,,x,Germany
+daniel,Ghana,,x,,Uruguay 
+daniel,Korea Republic,,x,,Portugal
+daniel,Serbia,,,x,Switzerland 
+daniel,Cameroon,x,,,Brazil 
+daniel,Qatar,,,x,Ecuador 
+daniel,England,x,,,Iran 
+daniel,Senegal,,,x,Netherlands 
+daniel,USA,,x,,Wales 
+daniel,Argentina,,,x,Saudi Arabia
+daniel,Denmark,,x,,Tunisia 
+daniel,Mexico,x,,,Poland 
+daniel,France,,,x,Australia 
+daniel,Morocco,x,,,Croatia 
+daniel,Germany,,x,,Japan 
+daniel,Spain,x,,,Costa Rica
+daniel,Belgium,x,,,Canada 
+daniel,Switzerland,,,x,Cameroon 
+daniel,Uruguay,,,x,Korea Republic
+daniel,Portugal,,x,,Ghana 
+daniel,Brazil,,x,,Serbia 
+daniel,Wales,,,x,Iran 
+natalia,Qatar,,,x,Senegal 
+natalia,Netherlands,x,,,Ecuador 
+natalia,England,x,,,USA 
+natalia,Tunisia,,,x,Australia 
+natalia,Poland,,,x,Saudi Arabia
+natalia,France,,x,,Denmark 
+natalia,Argentina,,x,,Mexico 
+natalia,Japan,x,,,Costa Rica
+natalia,Belgium,x,,,Morocco 
+natalia,Croatia,,,x,Canada 
+natalia,Spain,,,x,Germany 
+natalia,Cameroon,,,x,Serbia 
+natalia,Korea Republic,,x,,Ghana
+natalia,Brazil,,x,,Switzerland 
+natalia,Portugal,x,,,Uruguay 
+natalia,Ecuador,x,,,Senegal 
+natalia,Netherlands,,,x,Qatar 
+natalia,Wales,,,x,England 
+natalia,Iran,,x,,USA 
+natalia,Australia,,x,,Denmark 
+natalia,Tunisia,x,,,France 
+natalia,Poland,x,,,Argentina 
+natalia,Saudi Arabia,,,x,Mexico
+natalia,Croatia,,x,,Belgium 
+natalia,Canada,,,x,Morocco 
+natalia,Japan,x,,,Spain 
+natalia,Costa Rica,,,x,Germany
+natalia,Ghana,,,x,Uruguay 
+natalia,Korea Republic,x,,,Portugal
+natalia,Serbia,,,x,Switzerland 
+natalia,Cameroon,x,,,Brazil 
+natalia,Qatar,,,x,Ecuador 
+natalia,England,x,,,Iran 
+natalia,Senegal,x,,,Netherlands 
+natalia,USA,x,,,Wales 
+natalia,Argentina,x,,,Saudi Arabia
+natalia,Denmark,x,,,Tunisia 
+natalia,Mexico,x,,,Poland 
+natalia,France,x,,,Australia 
+natalia,Morocco,,,x,Croatia 
+natalia,Germany,,,x,Japan 
+natalia,Spain,,x,,Costa Rica
+natalia,Belgium,,x,,Canada 
+natalia,Switzerland,x,,,Cameroon 
+natalia,Uruguay,x,,,Korea Republic
+natalia,Portugal,,,x,Ghana 
+natalia,Brazil,,,x,Serbia 
+natalia,Wales,,,x,Iran 
